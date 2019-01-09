@@ -7,7 +7,7 @@ artist1.save()
 
 album1 = Album.new({
   'title' => 'Greatest Hits',
-  'genre' => 'Rock'
+  'genre' => 'Rock',
   'artist_id' => artist1.id
   })
   album1.save()
