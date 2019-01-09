@@ -15,3 +15,4 @@ album1 = Album.new({
 
   binding.pry
   nil
+  # test
